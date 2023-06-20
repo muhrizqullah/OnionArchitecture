@@ -1,4 +1,4 @@
-# Asked Quetion
+# Asked Question
 
 ## 1. Mengapa properti interface pada Controller ditempatkan pada parameter Constructor?
 
