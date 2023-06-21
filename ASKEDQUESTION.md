@@ -1,6 +1,12 @@
 # Asked Question
 
-## 1. Mengapa properti interface pada Controller ditempatkan pada parameter Constructor?
+## 1. Bagaimana membentuk dan memisahkan tanggung jawab pada Onion Architecture?
+
+Dalam menerapkan Onion Architecture, menggunakan sebuah pendekatan perancangan Domain Driven Design. Artikel di bawah ini membantu dalam memahami Domain Driven Design.
+
+[Domain Driven Design](https://mufiddj.medium.com/mengenal-domain-driven-design-e9b2b1b58cce)
+
+## 2. Mengapa properti interface pada Controller ditempatkan pada parameter Constructor?
 
 ### Contoh Kasus
 ```php
